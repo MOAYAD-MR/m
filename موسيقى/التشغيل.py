@@ -94,7 +94,7 @@ async def play(client, m: Message):
                     caption=f"""
 **🏷️ العنوان ↞ [{songname}]({link})
 💬 ايدي المحادثه ↞ `{chat_id}`
-🎶 طلب من ↞ {m.from_user.mention}**\n\n - ➮  [𝐌𝐮𝐬𝐢𝐜 𝐒𝐞𝐥𝐯𝐚 🎵](t.me/SO_SELVA)  
+🎶 طلب من ↞ {m.from_user.mention}**\n\n - ➮  [𝐌𝐮𝐬𝐢𝐜 . ᥣ᥆᥎ᥱ 🎵](t.me/T_M_X963)  
 """,                )
             else:
                 await call_py.join_group_call(                    chat_id,                    AudioPiped(                        dl,                    ),                    stream_type=StreamType().pulse_stream,                )
@@ -105,7 +105,7 @@ async def play(client, m: Message):
                     caption=f"""
 **🏷️ العنوان ↞ [{songname}]({link})
 💬 ايدي المحادثه ↞ `{chat_id}`
-🎶 طلب من ↞ {m.from_user.mention}**\n\n - ➮  [𝐌𝐮𝐬𝐢𝐜 𝐒𝐞𝐥𝐯𝐚 🎵](t.me/SO_SELVA) 
+🎶 طلب من ↞ {m.from_user.mention}**\n\n - ➮  [𝐌𝐮𝐬𝐢𝐜 . ᥣ᥆᥎ᥱ 🎵](t.me/T_M_X963 ) 
 """,                )
 
     else:
@@ -136,7 +136,7 @@ async def play(client, m: Message):
 **🏷️  العنوان ↞ [{songname}]({url})
 ⏱️ مده المقطع ↞ {duration}
 💬 ايدي المحادثه ↞ `{chat_id}`
-🎶 طلب من ↞ {m.from_user.mention}**\n\n - ➮  [𝐌𝐮𝐬𝐢𝐜 𝐒𝐞𝐥𝐯𝐚 🎵](t.me/SO_SELVA) 
+🎶 طلب من ↞ {m.from_user.mention}**\n\n - ➮  [𝐌𝐮𝐬𝐢𝐜 . ᥣ᥆᥎ᥱ 🎵](t.me/T_M_X963) 
 """,
                         )
                     else:
@@ -157,7 +157,7 @@ async def play(client, m: Message):
 **🏷️  العنوان ↞ [{songname}]({url})
 ⏱️ مده المقطع ↞ {duration}
 💬 ايدي المحادثه ↞ `{chat_id}`
-🎶 طلب من ↞ {m.from_user.mention}**\n\n - ➮  [𝐌𝐮𝐬𝐢𝐜 𝐒𝐞𝐥𝐯𝐚 🎵](t.me/SO_SELVA) 
+🎶 طلب من ↞ {m.from_user.mention}**\n\n - ➮  [𝐌𝐮𝐬𝐢𝐜 . ᥣ᥆᥎ᥱ 🎵](t.me/T_M_X963) 
 """,
                             )
                         except Exception as ep:
@@ -199,7 +199,7 @@ async def vplay(client, m: Message):
                     caption=f"""
 **🏷️ العنوان ↞ [{songname}]({link})
 💬 ايدي المحادثه ↞ `{chat_id}`
-🎶 طلب من ↞ {m.from_user.mention}**\n\n - ➮  [𝐌𝐮𝐬𝐢𝐜 𝐒𝐞𝐥𝐯𝐚 🎵](t.me/SO_SELVA) 
+🎶 طلب من ↞ {m.from_user.mention}**\n\n - ➮  [𝐌𝐮𝐬𝐢𝐜 . ᥣ᥆᥎ᥱ 🎵](t.me/T_M_X963) 
 """,
                 )
             else:
@@ -222,7 +222,7 @@ async def vplay(client, m: Message):
                     caption=f"""
 **🏷️ العنوان ↞ [{songname}]({link})
 💬 ايدي المحادثه ↞ `{chat_id}`
-🎶 طلب من ↞ {m.from_user.mention}**\n\n - ➮  [𝐌𝐮𝐬𝐢𝐜 𝐒𝐞𝐥𝐯𝐚 🎵](t.me/SO_SELVA) 
+🎶 طلب من ↞ {m.from_user.mention}**\n\n - ➮  [𝐌𝐮𝐬𝐢𝐜 . ᥣ᥆᥎ᥱ 🎵](t.me/T_M_X963) 
 """,                )
 
     else:
@@ -255,7 +255,7 @@ async def vplay(client, m: Message):
 **🏷️  العنوان ↞ [{songname}]({url})
 ⏱️ مده المقطع ↞ {duration}
 💬 ايدي المحادثه ↞ `{chat_id}`
-🎶 طلب من : {m.from_user.mention}**\n\n - ➮  [𝐌𝐮𝐬𝐢𝐜 𝐒𝐞𝐥𝐯𝐚 🎵](t.me/SO_SELVA) 
+🎶 طلب من : {m.from_user.mention}**\n\n - ➮  [𝐌𝐮𝐬𝐢𝐜 . ᥣ᥆᥎ᥱ 🎵](t.me/T_M_X963) 
 """,                        )
                     else:
                         try:
@@ -268,7 +268,7 @@ async def vplay(client, m: Message):
 **🏷️  العنوان ↞ [{songname}]({url})
 ⏱️ مده المقطع ↞ {duration}
 💬 ايدي المحادثه ↞ `{chat_id}`
-🎶 طلب من ↞ {m.from_user.mention}**\n\n - ➮  [𝐌𝐮𝐬𝐢𝐜 𝐒𝐞𝐥𝐯𝐚 🎵](t.me/SO_SELVA) 
+🎶 طلب من ↞ {m.from_user.mention}**\n\n - ➮  [𝐌𝐮𝐬𝐢𝐜 . ᥣ᥆᥎ᥱ 🎵](t.me/T_M_X963) 
 """,                            )
                         except Exception as ep:
                             await huehue.edit(f"`{ep}`")
@@ -309,7 +309,7 @@ async def playfrom(client, m: Message):
 **▶ ابدأ تشغيل الأغاني من {chat}
 🏷️ العنوان ↞ [{songname}]({link})
 💬 المحادثه ↞ `{chat_id}`
-🎶 من الطلب ↞ {m.from_user.mention}**\n - ➮  [𝐌𝐮𝐬𝐢𝐜 𝐒𝐞𝐥𝐯𝐚 🎵](t.me/SO_SELVA) 
+🎶 من الطلب ↞ {m.from_user.mention}**\n - ➮  [𝐌𝐮𝐬𝐢𝐜 . ᥣ᥆᥎ᥱ 🎵](t.me/T_M_X963) 
 """,                    )
             await hmm.delete()
             await m.reply(                f"➕ يضيف {lmt} أغنية في قائمة الانتظار \n• ارسل {HNDLR}تلقائي لاضاف اغنيه في القائمه الانتضار**"            )
